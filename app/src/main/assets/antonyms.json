@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is an antonym for 'Hot'?",
+    "options": ["Warm", "Cold", "Cool", "Freezing"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Light'?",
+    "options": ["Bright", "Dark", "Dim", "Shadowy"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Strong'?",
+    "options": ["Powerful", "Weak", "Mighty", "Robust"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Tall'?",
+    "options": ["High", "Short", "Long", "Big"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Rich'?",
+    "options": ["Wealthy", "Poor", "Affluent", "Prosperous"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Loud'?",
+    "options": ["Noisy", "Quiet", "Boisterous", "Thunderous"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Fast'?",
+    "options": ["Quick", "Slow", "Rapid", "Swift"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Happy'?",
+    "options": ["Joyful", "Sad", "Cheerful", "Glad"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Empty'?",
+    "options": ["Vacant", "Full", "Hollow", "Bare"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is an antonym for 'Beginning'?",
+    "options": ["Start", "End", "Opening", "Commencement"],
+    "answerIndex": 1
+  }
+]

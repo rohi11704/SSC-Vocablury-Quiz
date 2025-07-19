@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the one-word substitution for 'a person who loves books'?",
+    "options": ["Bibliophile", "Bibliographer", "Librarian", "Scholar"],
+    "answerIndex": 0
+  },
+  {
+    "question": "What is the one-word substitution for 'a government by the wealthy'?",
+    "options": ["Democracy", "Plutocracy", "Aristocracy", "Monarchy"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is the one-word substitution for 'fear of heights'?",
+    "options": ["Claustrophobia", "Agoraphobia", "Acrophobia", "Hydrophobia"],
+    "answerIndex": 2
+  },
+  {
+    "question": "What is the one-word substitution for 'a person who speaks many languages'?",
+    "options": ["Linguist", "Polyglot", "Translator", "Interpreter"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is the one-word substitution for 'the study of earthquakes'?",
+    "options": ["Geology", "Seismology", "Meteorology", "Astronomy"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is the one-word substitution for 'a person who hates mankind'?",
+    "options": ["Misogynist", "Misanthrope", "Philanthropist", "Humanitarian"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is the one-word substitution for 'murder of one's own father'?",
+    "options": ["Matricide", "Patricide", "Fratricide", "Suicide"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is the one-word substitution for 'a place where birds are kept'?",
+    "options": ["Aviary", "Apiary", "Aquarium", "Terrarium"],
+    "answerIndex": 0
+  },
+  {
+    "question": "What is the one-word substitution for 'a person who cannot read or write'?",
+    "options": ["Ignorant", "Illiterate", "Uneducated", "Naive"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is the one-word substitution for 'a medicine that counteracts poison'?",
+    "options": ["Antibiotic", "Antidote", "Antiseptic", "Analgesic"],
+    "answerIndex": 1
+  }
+]

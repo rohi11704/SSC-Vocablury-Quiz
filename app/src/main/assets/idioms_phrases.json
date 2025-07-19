@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does the idiom 'Break the ice' mean?",
+    "options": ["To start a conversation", "To break something frozen", "To solve a problem", "To end a relationship"],
+    "answerIndex": 0
+  },
+  {
+    "question": "What does the phrase 'Bite the bullet' mean?",
+    "options": ["To eat something hard", "To face a difficult situation", "To shoot someone", "To be very angry"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'A piece of cake' mean?",
+    "options": ["A dessert", "Something very easy", "A small portion", "Something expensive"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'Hit the nail on the head' mean?",
+    "options": ["To hurt yourself", "To be exactly right", "To build something", "To be very loud"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'Spill the beans' mean?",
+    "options": ["To make a mess", "To reveal a secret", "To cook food", "To waste something"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'Under the weather' mean?",
+    "options": ["Outside in rain", "Feeling sick", "Being confused", "Working hard"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'Cost an arm and a leg' mean?",
+    "options": ["To be injured", "To be very expensive", "To be dangerous", "To be difficult"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'Let the cat out of the bag' mean?",
+    "options": ["To free an animal", "To reveal a secret", "To make noise", "To cause trouble"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'Burn the midnight oil' mean?",
+    "options": ["To waste fuel", "To work late at night", "To start a fire", "To be very tired"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What does 'The ball is in your court' mean?",
+    "options": ["You're playing sports", "It's your turn to act", "You're in trouble", "You're winning"],
+    "answerIndex": 1
+  }
+]

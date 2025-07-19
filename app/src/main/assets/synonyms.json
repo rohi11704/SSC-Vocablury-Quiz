@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is a synonym for 'Happy'?",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is a synonym for 'Difficult'?",
+    "options": ["Easy", "Simple", "Challenging", "Clear"],
+    "answerIndex": 2
+  },
+  {
+    "question": "What is a synonym for 'Beautiful'?",
+    "options": ["Ugly", "Plain", "Gorgeous", "Ordinary"],
+    "answerIndex": 2
+  },
+  {
+    "question": "What is a synonym for 'Intelligent'?",
+    "options": ["Stupid", "Smart", "Foolish", "Ignorant"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is a synonym for 'Ancient'?",
+    "options": ["Modern", "New", "Old", "Recent"],
+    "answerIndex": 2
+  },
+  {
+    "question": "What is a synonym for 'Brave'?",
+    "options": ["Cowardly", "Courageous", "Fearful", "Timid"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is a synonym for 'Enormous'?",
+    "options": ["Tiny", "Small", "Huge", "Miniature"],
+    "answerIndex": 2
+  },
+  {
+    "question": "What is a synonym for 'Swift'?",
+    "options": ["Slow", "Fast", "Lazy", "Sluggish"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is a synonym for 'Abundant'?",
+    "options": ["Scarce", "Plentiful", "Rare", "Limited"],
+    "answerIndex": 1
+  },
+  {
+    "question": "What is a synonym for 'Precise'?",
+    "options": ["Vague", "Exact", "Unclear", "Approximate"],
+    "answerIndex": 1
+  }
+]

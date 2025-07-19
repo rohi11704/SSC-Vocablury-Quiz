@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSC Vocabulary Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Home Screen -->
+        <div id="home-screen" class="screen active">
+            <div class="header">
+                <h1>SSC Vocabulary Quiz</h1>
+                <p>Choose a category to start your quiz</p>
+            </div>
+            
+            <div class="categories-grid">
+                <div class="category-card" data-category="one-word-substitution">
+                    <h3>One-Word Substitution</h3>
+                </div>
+                <div class="category-card" data-category="idioms-phrases">
+                    <h3>Idioms & Phrases</h3>
+                </div>
+                <div class="category-card" data-category="synonyms">
+                    <h3>Synonyms</h3>
+                </div>
+                <div class="category-card" data-category="antonyms">
+                    <h3>Antonyms</h3>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <button id="back-btn" class="back-button">← Back</button>
+                <div class="question-counter">
+                    <span id="current-question">1</span> of <span id="total-questions">10</span>
+                </div>
+            </div>
+
+            <div class="quiz-content">
+                <div class="question-section">
+                    <h2 id="question-text">Loading question...</h2>
+                </div>
+
+                <div class="options-section">
+                    <div class="option-card" data-option="0">
+                        <span class="option-letter">A</span>
+                        <span class="option-text">Option A</span>
+                    </div>
+                    <div class="option-card" data-option="1">
+                        <span class="option-letter">B</span>
+                        <span class="option-text">Option B</span>
+                    </div>
+                    <div class="option-card" data-option="2">
+                        <span class="option-letter">C</span>
+                        <span class="option-text">Option C</span>
+                    </div>
+                    <div class="option-card" data-option="3">
+                        <span class="option-letter">D</span>
+                        <span class="option-text">Option D</span>
+                    </div>
+                </div>
+
+                <div class="quiz-controls">
+                    <button id="submit-btn" class="submit-button" disabled>Submit Answer</button>
+                    <button id="next-btn" class="next-button" style="display: none;">Next Question</button>
+                </div>
+
+                <div class="score-section">
+                    <div class="score-item correct">
+                        <span class="score-label">Correct:</span>
+                        <span id="correct-count">0</span>
+                    </div>
+                    <div class="score-item incorrect">
+                        <span class="score-label">Incorrect:</span>
+                        <span id="incorrect-count">0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-screen" class="screen">
+            <div class="results-content">
+                <h1>Quiz Completed!</h1>
+                <div class="final-score">
+                    <h2 id="final-score-text">Your Score: 0/10</h2>
+                    <div class="score-breakdown">
+                        <div class="score-detail correct">
+                            <span>Correct Answers: </span>
+                            <span id="final-correct">0</span>
+                        </div>
+                        <div class="score-detail incorrect">
+                            <span>Incorrect Answers: </span>
+                            <span id="final-incorrect">0</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="results-actions">
+                    <button id="try-again-btn" class="primary-button">Try Again</button>
+                    <button id="home-btn" class="secondary-button">Back to Home</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

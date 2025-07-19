@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SSC Vocabulary Quiz</string>
+    <string name="one_word_substitution">One-Word Substitution</string>
+    <string name="idioms_phrases">Idioms &amp; Phrases</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="antonyms">Antonyms</string>
+    <string name="correct_answers">Correct: %d</string>
+    <string name="incorrect_answers">Incorrect: %d</string>
+    <string name="next_question">Next Question</string>
+    <string name="finish_quiz">Finish Quiz</string>
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="your_score">Your Score: %d/%d</string>
+    <string name="try_again">Try Again</string>
+    <string name="back_to_home">Back to Home</string>
+</resources>
